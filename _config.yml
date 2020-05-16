@@ -24,6 +24,13 @@ github_username: am1ncmd
 minimal_mistakes_skin: neon
 search: true
 
+# Site Settings
+breadcrumbs            : true # true, false (default)
+comments:
+provider               : disqus # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+disqus:
+  shortname            : ams1gn.id/AmS1gn# https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
