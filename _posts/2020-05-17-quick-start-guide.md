@@ -7,8 +7,7 @@ tags:
   - AmS1gn
   - Sign
   - IPA
-  layout: default
-  comments: true
+comments: true
 ---
 
 Thank You for Using Our Signing Services
