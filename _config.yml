@@ -25,11 +25,12 @@ minimal_mistakes_skin: neon
 search: true
 
 # Site Settings
+logo                   : /assets/images/logo_default.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 breadcrumbs            : true # true, false (default)
 comments:
 provider               : disqus # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
 disqus:
-  shortname            : ams1gn.id/AmS1gn# https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  shortname            : ams1gn.id/AmS1gn # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 
 # Build settings
 markdown: kramdown
