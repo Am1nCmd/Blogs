@@ -3,7 +3,6 @@ title: "Quick Start Guide"
 date: 2020-05-17T21:14:30-04:00
 categories:
   - Post
-  - Tutorial
 tags:
   - AmS1gn
   - Sign
